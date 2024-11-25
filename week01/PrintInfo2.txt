@@ -1,0 +1,9 @@
+package homework;	// 패키지 이름 homework
+
+public class PrintInfo2 {	// 클래스의 중괄호 시작 영역
+	public static void main(String[] args) {	// main 메소드의 중괄호 시작 영역
+		System.out.print("2024년 11월 24일");	// 쌍따옴표 안의 값을 출력한다
+		System.out.print("13시 24분");	// 5번째 줄 출력 값 뒤에 쌍따옴표 안의 값을 출력한다
+	}	//main 메소드의 중괄호 끝 영역
+
+}	//클래스의 중괄호 끝 영역

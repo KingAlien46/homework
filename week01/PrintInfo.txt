@@ -1,0 +1,10 @@
+package homework;	// 패키지 이름 homework
+
+public class PrintInfo {	// 클래스의 중괄호 시작 영역
+	public static void main(String[] args) {	// main 메소드의 중괄호 시작 영역
+		System.out.println("조성현 " + 24);
+		// 조성현이라는 값과 24라는 값을 붙여서 출력하고 줄바꿈한다
+		
+	}	//main 메소드의 중괄호 끝 영역
+
+}	//클래스의 중괄호 끝 영역
